@@ -1,0 +1,10 @@
+{
+  "slotsTitle" : "Your Slotname",
+  "balanceTooLow": "Your balance is too low to play this bet",
+  "autoPlayActivated" : "Auto play activated",
+  "autoPlayDeactivated" : "Auto play deactivated",
+  "turboSpinActivated" : "Turbo spin activated",
+  "turboSpinDeactivated" : "Turbo spin deactivated",
+  "soundsActivated" : "Sounds activated",
+  "soundsDeactivated" : "Sounds deactivated"
+}
